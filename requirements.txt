@@ -1,4 +1,6 @@
+flask
 numpy
 pandas
-matplotlib
-plotly
+scikit-learn
+gunicorn
+
